@@ -1,2 +1,2 @@
 # demo
-This repo was create on 1 of Sept.
+This repo was created on 1 Sept.
